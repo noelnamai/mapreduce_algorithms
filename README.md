@@ -1,4 +1,4 @@
-## Algorithms in MapReduce: Instructions Help
+## Algorithms in MapReduce
 
 In this assignment, you will be designing and implementing MapReduce algorithms for a variety of common data processing tasks.  
 
